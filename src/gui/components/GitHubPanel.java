@@ -40,6 +40,7 @@ public class GitHubPanel extends AppPanel{
                 if(returnVal == JFileChooser.APPROVE_OPTION) {
                     mainFrame.setPath(fc.getSelectedFile().getPath());
                     git = new GitInfo(mainFrame.getPath());
+                    cycle_timer = -1;
                 }
             }
         });
