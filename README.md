@@ -1,8 +1,8 @@
 WorkBar
 =======
 
-This is one bar made in java that will be fixed in the bottom of your screen with some stats of what you are doing. You
-![Demo](http://i.imgur.com/mQxSqnN.png)
+This is one bar made in java that will be fixed in the bottom of your screen with some stats of what you are doing.
+![Demo](http://i.imgur.com/ZjgAhrW.jpg)
 
 The project was never meant to be published but since it escalated a bit from the the main idea i thought that more people may want to use it to.
 
@@ -12,7 +12,7 @@ This app was made for MAC OS X.
 
 ##How to use
 All the features:
-![Demo](http://i.imgur.com/dV9Gkgz.jpg)
+![Description](http://i.imgur.com/tXsRExU.jpg)
 
 * Change the starting time, by clicking in the 00:00 timer (1);
 * Take Timestamps by clicking on the button (2);
@@ -23,4 +23,4 @@ All the features:
 
 ## Template
 You have 2 colors of bar available now.
-![Demo](http://i.imgur.com/tPaZoY3.jpg)
+![Colors](http://i.imgur.com/6K9bMzg.jpg)
